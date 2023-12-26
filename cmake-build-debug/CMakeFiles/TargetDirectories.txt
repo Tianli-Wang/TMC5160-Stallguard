@@ -1,0 +1,3 @@
+D:/PersonalCloud/TMC_Stallguard/cmake-build-debug/CMakeFiles/TMC_Stallguard.elf.dir
+D:/PersonalCloud/TMC_Stallguard/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PersonalCloud/TMC_Stallguard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

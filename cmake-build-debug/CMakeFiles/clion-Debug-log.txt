@@ -1,0 +1,5 @@
+"D:\Program Files\JetBrains\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=D:/CompileChaim/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/CompileChaim/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe -G "MinGW Makefiles" -S D:\PersonalCloud\TMC_Stallguard -B D:\PersonalCloud\TMC_Stallguard\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/PersonalCloud/TMC_Stallguard/cmake-build-debug
